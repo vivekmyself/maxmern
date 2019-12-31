@@ -22,7 +22,7 @@ const DUMMY_PLACES = [
     title: "Empire State OK",
     description: "Empire State Building world famous",
     imageURL: "https://cdn.getyourguide.com/img/tour_img-1739965-148.jpg",
-    address: "2 Mannar St, NY",
+    address: "5 Mannar St, NY",
     location: {
       lat: 40.7484405,
       lng: -73.9878531
